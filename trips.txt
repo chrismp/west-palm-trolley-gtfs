@@ -1,0 +1,10 @@
+route_id,service_id,trip_id
+yellow,yellow-sun-wed,1
+yellow,yellow-th-sat,2
+yellow,yellow-xmas-eve,3
+green,green-weekday,4
+green,green-sat,5
+green,green-sun,6
+blue,blue,7
+blue,blue-xmas-eve,8
+orange,orange,9

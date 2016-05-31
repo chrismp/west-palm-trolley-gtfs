@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+yellow,,Yellow line,3,http://www.downtownwpb.com/trolley/,d6d61e,ffffff
+green,,Green line,3,http://www.downtownwpb.com/trolley/,339966,ffffff
+blue,,Blue line,3,http://www.downtownwpb.com/trolley/,0000ff,ffffff
+orange,,Orange line,3,http://www.downtownwpb.com/blog/the-orange-line-trolley-your-free-ride-to-arts-culture-in-wpb/,cc6e2b,ffffff

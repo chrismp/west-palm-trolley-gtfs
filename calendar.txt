@@ -1,0 +1,10 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+yellow-sun-wed,1,1,1,0,0,0,1,20160101,20161231
+yellow-th-sat,0,0,0,1,1,1,0,20160101,20161231
+yellow-xmas-eve,1,1,1,1,1,1,1,20160101,20161231
+green-weekday,1,1,1,1,1,0,0,20160101,20161231
+green-sat,0,0,0,0,0,0,0,20160101,20161231
+green-sun,0,0,0,0,0,1,1,20160101,20161231
+blue,0,0,0,1,1,1,0,20161101,20161231
+blue-xmas-eve,1,1,1,1,1,1,1,20161101,20161231
+orange,0,1,1,1,1,1,0,20160101,20161231
