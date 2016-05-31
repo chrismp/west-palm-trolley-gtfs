@@ -1,0 +1,37 @@
+stop_id,stop_name,stop_lat,stop_lon
+yellow-1,Sapodilla Avenue at Kravis Center Drop-Off,26.706943,-80.059116
+yellow-2,500 Block S Rosemary Avenue (at Macy’s),26.709118,-80.057118
+yellow-3,300 Block S Rosemary Avenue (near Publix),26.711049,-80.057054
+yellow-4,200 Block S Rosemary Avenue,26.711893,-80.057033
+yellow-5,500 Block Clematis Street,26.713383,-80.056271
+yellow-6,400 Block Clematis Street (at the Mandell Library),26.713342,-80.054309
+yellow-7,300 Block Clematis Street,26.713267,-80.052747
+yellow-8,200 Block Clematis Street,26.713244,-80.051303
+yellow-9,100 Block Clematis Street,26.7128242,-80.0499364
+yellow-10,Fern Street at Post Park,26.7102947,-80.0506876
+yellow-11,Fern Street at Olive Avenue,26.710367,-80.051824
+yellow-12,300 Block Clematis Street,26.713394,-80.052728
+yellow-13,400 Block Clematis Street (at the Mandell Library),26.713414,-80.054326
+yellow-14,500 Block Clematis Street,26.713487,-80.05625
+yellow-15,200 Block S Rosemary Avenue,26.712012,-80.057134
+yellow-16,300 Block S Rosemary Avenue (near Publix),26.711009,-80.057155
+yellow-17,500 Block S Rosemary Avenue (at Macy’s),26.709131,-80.057205
+green-1,West Palm Beach Tri-Rail station,26.712235,-80.062129
+green-2,Sapodilla Avenue behind Publix,26.71088955,-80.058688
+green-3,600 Block Clematis Street,26.713418,-80.057862
+green-4,500 Block Clematis Street,26.713383,-80.056271
+green-5,400 Block Clematis Street (at the Mandell Library),26.713342,-80.054309
+green-6,Dixie Highway at Datura Street,26.7124601,-80.05363606
+green-7,Dixie Highway at Evernia Street,26.71143703,-80.05365886
+green-8,Dixie Highway at Fern Street,26.710499,-80.05367093
+green-9,Dixie Highway at Hibiscus Street,26.70862652,-80.05372457
+green-10,Dixie Highway at Iris Street,26.70762737,-80.05374201
+green-11,800 Block Olive Avenue by Parking Garage,26.705786,-80.05204283
+green-12,600 Block Olive Avenue Mid-Block,26.70729313,-80.05200259
+green-13,400 Block Olive Avenue at St. James,26.710105,-80.051892
+green-14,300 Block Olive Avenue at Evernia Street,26.7106321,-80.0525095
+green-15,300 Block Clematis Street,26.713394,-80.052728
+green-16,400 Block Clematis Street (at the Mandell Library),26.713414,-80.054326
+green-17,500 Block Clematis Street,26.713487,-80.05625
+green-18,,,
+green-19,700 Block Banyan Boulevard Mid-Block,26.71466,-80.059559
