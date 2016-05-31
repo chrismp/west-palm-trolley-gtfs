@@ -33,9 +33,9 @@ green-14,300 block Olive Avenue at Evernia Street,26.7106321,-80.0525095
 green-15,300 block Clematis Street,26.713394,-80.052728
 green-16,400 block Clematis Street (at the Mandel Library),26.713414,-80.054326
 green-17,500 block Clematis Street,26.713487,-80.05625
-green-18,,,
-green-19,700 block Banyan Boulevard Mid-block,26.71466,-80.059559
-blue-1,Mandel Public Library,,
+green-18,200 block N Rosemary Avenue,26.71514712,-80.05690701
+green-19,700 block Banyan Boulevard mid-block,26.71466,-80.059559
+blue-1,Mandel Public Library,26.713414,-80.054326
 blue-2,Olive Avenue at 7th Street,,
 blue-3,Flagler Drive at Lakeside Court,,
 blue-4,25th Street,,
